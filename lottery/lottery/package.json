@@ -1,0 +1,16 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "y",
+  "main": "index.js",
+  "scripts": {
+    "test": "y"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@chainlink/contracts": "^0.4.0",
+    "@truffle/hdwallet-provider": "^2.0.6",
+    "dotenv": "^16.0.0"
+  }
+}
